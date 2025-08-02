@@ -9,111 +9,61 @@ I'm a passionate Full-Stack Developer dedicated to building clean, high-performa
 - 🌱 Always learning and exploring new technologies
 
 
-## 🛠️ Tech Stack
-
 ### 🧠 Languages
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">C</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">C++</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">Java</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">Python</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">JavaScript</span>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /><br>C</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript</td>
+  </tr>
+</table>
 
 ### 🎨 Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">HTML5</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">CSS3</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">React</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">Tailwind</span>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>CSS3</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>React</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /><br>Tailwind</td>
+  </tr>
+</table>
 
 ### 🧩 Backend
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">Node.js</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">Express.js</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://img.shields.io/badge/REST%20API-ffcc00?style=flat&logo=fastapi&logoColor=black" height="16" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">REST API</span>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /><br>Express.js</td>
+    <td align="center"><img src="https://img.shields.io/badge/REST%20API-ffcc00?style=flat&logo=fastapi&logoColor=black" height="28" /><br>REST API</td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">MongoDB</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">Oracle</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">MySQL</span>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /><br>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" /><br>Oracle</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>MySQL</td>
+  </tr>
+</table>
 
 ### 🧰 Tools
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">Git</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">GitHub</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">VS Code</span>
-  </div>
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">IntelliJ</span>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /><br>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br>VS Code</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" /><br>IntelliJ</td>
+  </tr>
+</table>
 
 ### ☁️ Cloud
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <div style="display: flex; align-items: center; background: white; padding: 6px 10px; border-radius: 4px; border: 1px solid #e1e4e8;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" style="margin-right: 6px;"/>
-    <span style="font-size: 14px;">Firebase</span>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br>Firebase</td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
